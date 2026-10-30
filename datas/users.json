@@ -1,0 +1,2006 @@
+{
+  "total": 200,
+  "note": "合成种子数据: 系统无用户表, 以 localStorage markId 作为访客标识",
+  "users": [
+    {
+      "id": 1,
+      "markId": "nl7u8vd4yvyjhkt",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 4,
+      "firstSeen": "2026-9-9",
+      "lastSeen": "2026-9-12"
+    },
+    {
+      "id": 2,
+      "markId": "enbn9m7suocgwpw",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 17,
+      "firstSeen": "2026-8-31",
+      "lastSeen": "2026-9-23"
+    },
+    {
+      "id": 3,
+      "markId": "e4xodjuc3dtzgtx",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 1,
+      "firstSeen": "2026-9-1",
+      "lastSeen": "2026-10-22"
+    },
+    {
+      "id": 4,
+      "markId": "sz1cd9h2m5047un",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 25,
+      "firstSeen": "2026-9-26",
+      "lastSeen": "2026-10-23"
+    },
+    {
+      "id": 5,
+      "markId": "uecbchmqh3uhkq0",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 1,
+      "firstSeen": "2026-9-4",
+      "lastSeen": "2026-9-28"
+    },
+    {
+      "id": 6,
+      "markId": "9xsgkz2u52xne39",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 16,
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-28"
+    },
+    {
+      "id": 7,
+      "markId": "de014ad11eyeuiz",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 30,
+      "firstSeen": "2026-9-12",
+      "lastSeen": "2026-10-20"
+    },
+    {
+      "id": 8,
+      "markId": "pjj6jeqecif9qul",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 12,
+      "firstSeen": "2026-9-15",
+      "lastSeen": "2026-10-22"
+    },
+    {
+      "id": 9,
+      "markId": "efmlj6sf9qwnzx6",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 19,
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-17"
+    },
+    {
+      "id": 10,
+      "markId": "dfz7daq864ivvf1",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 16,
+      "firstSeen": "2026-9-15",
+      "lastSeen": "2026-10-28"
+    },
+    {
+      "id": 11,
+      "markId": "pbbu6lmgkt5k2xg",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 14,
+      "firstSeen": "2026-9-27",
+      "lastSeen": "2026-10-26"
+    },
+    {
+      "id": 12,
+      "markId": "gxhuu0cubc4feyv",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 22,
+      "firstSeen": "2026-8-30",
+      "lastSeen": "2026-10-16"
+    },
+    {
+      "id": 13,
+      "markId": "rytltwsq8yqfmla",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 28,
+      "firstSeen": "2026-9-6",
+      "lastSeen": "2026-10-12"
+    },
+    {
+      "id": 14,
+      "markId": "9ftw19qppj5j2jx",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 5,
+      "firstSeen": "2026-9-3",
+      "lastSeen": "2026-10-12"
+    },
+    {
+      "id": 15,
+      "markId": "er1ksf8yu7yz136",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 5,
+      "firstSeen": "2026-9-22",
+      "lastSeen": "2026-9-22"
+    },
+    {
+      "id": 16,
+      "markId": "8lnumr4cgrdj1mp",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 22,
+      "firstSeen": "2026-9-14",
+      "lastSeen": "2026-9-29"
+    },
+    {
+      "id": 17,
+      "markId": "si63xzpdqpffrf2",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 3,
+      "firstSeen": "2026-10-6",
+      "lastSeen": "2026-10-24"
+    },
+    {
+      "id": 18,
+      "markId": "nmvnryqrnc9nja4",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 20,
+      "firstSeen": "2026-9-4",
+      "lastSeen": "2026-10-10"
+    },
+    {
+      "id": 19,
+      "markId": "s20h9d5femeofhm",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 26,
+      "firstSeen": "2026-9-18",
+      "lastSeen": "2026-10-20"
+    },
+    {
+      "id": 20,
+      "markId": "z4qvi50bpoczskh",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 11,
+      "firstSeen": "2026-9-2",
+      "lastSeen": "2026-9-22"
+    },
+    {
+      "id": 21,
+      "markId": "fue42ofcrdmi9is",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 23,
+      "firstSeen": "2026-10-2",
+      "lastSeen": "2026-10-7"
+    },
+    {
+      "id": 22,
+      "markId": "7abfsbkffml5fxj",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 16,
+      "firstSeen": "2026-9-1",
+      "lastSeen": "2026-9-18"
+    },
+    {
+      "id": 23,
+      "markId": "0px8zdfv2en44d6",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 4,
+      "firstSeen": "2026-10-1",
+      "lastSeen": "2026-10-10"
+    },
+    {
+      "id": 24,
+      "markId": "4ofsp4u1rt7bzek",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 22,
+      "firstSeen": "2026-9-8",
+      "lastSeen": "2026-9-9"
+    },
+    {
+      "id": 25,
+      "markId": "mp5ezttm1z8sl37",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 13,
+      "firstSeen": "2026-9-14",
+      "lastSeen": "2026-9-15"
+    },
+    {
+      "id": 26,
+      "markId": "5w3vu05nt6w38vu",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 20,
+      "firstSeen": "2026-9-5",
+      "lastSeen": "2026-10-13"
+    },
+    {
+      "id": 27,
+      "markId": "oz1n9vdyrvbq4c6",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 9,
+      "firstSeen": "2026-9-7",
+      "lastSeen": "2026-10-21"
+    },
+    {
+      "id": 28,
+      "markId": "6y06q16mr2smyww",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 17,
+      "firstSeen": "2026-9-23",
+      "lastSeen": "2026-10-1"
+    },
+    {
+      "id": 29,
+      "markId": "4bx2j2w02jdynmv",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 11,
+      "firstSeen": "2026-9-1",
+      "lastSeen": "2026-9-13"
+    },
+    {
+      "id": 30,
+      "markId": "wg1g7bjyy7qxjbd",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 3,
+      "firstSeen": "2026-9-12",
+      "lastSeen": "2026-10-7"
+    },
+    {
+      "id": 31,
+      "markId": "rg46kmjy3on2ke7",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 12,
+      "firstSeen": "2026-9-9",
+      "lastSeen": "2026-10-28"
+    },
+    {
+      "id": 32,
+      "markId": "lrjtfhg1lrnc4p1",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 24,
+      "firstSeen": "2026-10-1",
+      "lastSeen": "2026-10-12"
+    },
+    {
+      "id": 33,
+      "markId": "2hmakbjv856foyy",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 2,
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-18"
+    },
+    {
+      "id": 34,
+      "markId": "33z2ykr2ra8vbum",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 24,
+      "firstSeen": "2026-9-4",
+      "lastSeen": "2026-9-28"
+    },
+    {
+      "id": 35,
+      "markId": "1y5a8ahye8o3fff",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 27,
+      "firstSeen": "2026-9-10",
+      "lastSeen": "2026-9-15"
+    },
+    {
+      "id": 36,
+      "markId": "n07zswgxi0ssu58",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 16,
+      "firstSeen": "2026-10-1",
+      "lastSeen": "2026-10-15"
+    },
+    {
+      "id": 37,
+      "markId": "ls8ut485b53rbs6",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 26,
+      "firstSeen": "2026-9-24",
+      "lastSeen": "2026-10-17"
+    },
+    {
+      "id": 38,
+      "markId": "czfk1e2ju7zks8j",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 13,
+      "firstSeen": "2026-10-4",
+      "lastSeen": "2026-10-18"
+    },
+    {
+      "id": 39,
+      "markId": "s42f2ud14msnujk",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 26,
+      "firstSeen": "2026-9-7",
+      "lastSeen": "2026-10-26"
+    },
+    {
+      "id": 40,
+      "markId": "9cjm6rsl7smpy6h",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 23,
+      "firstSeen": "2026-9-7",
+      "lastSeen": "2026-10-8"
+    },
+    {
+      "id": 41,
+      "markId": "nsewhhn9lf09m72",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 23,
+      "firstSeen": "2026-9-24",
+      "lastSeen": "2026-10-22"
+    },
+    {
+      "id": 42,
+      "markId": "de6blucvuci7qpq",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 30,
+      "firstSeen": "2026-10-8",
+      "lastSeen": "2026-10-17"
+    },
+    {
+      "id": 43,
+      "markId": "aq5wdw5tmzvzlrb",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 1,
+      "firstSeen": "2026-9-6",
+      "lastSeen": "2026-9-6"
+    },
+    {
+      "id": 44,
+      "markId": "mccn520e3oyjm9d",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 30,
+      "firstSeen": "2026-9-25",
+      "lastSeen": "2026-10-14"
+    },
+    {
+      "id": 45,
+      "markId": "bfn93lc29ruk4qd",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 4,
+      "firstSeen": "2026-10-1",
+      "lastSeen": "2026-10-1"
+    },
+    {
+      "id": 46,
+      "markId": "eih0ak5skp9c9u5",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 25,
+      "firstSeen": "2026-10-6",
+      "lastSeen": "2026-10-20"
+    },
+    {
+      "id": 47,
+      "markId": "sz933fvvqjasftw",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 12,
+      "firstSeen": "2026-9-16",
+      "lastSeen": "2026-9-27"
+    },
+    {
+      "id": 48,
+      "markId": "csk1s957wgoibvi",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 28,
+      "firstSeen": "2026-9-9",
+      "lastSeen": "2026-10-28"
+    },
+    {
+      "id": 49,
+      "markId": "0xwcgczebxiynik",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 28,
+      "firstSeen": "2026-9-25",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": 50,
+      "markId": "s83ms0lfe7mxrdo",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 17,
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-14"
+    },
+    {
+      "id": 51,
+      "markId": "ej56pyp5c30klyb",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 2,
+      "firstSeen": "2026-9-1",
+      "lastSeen": "2026-10-2"
+    },
+    {
+      "id": 52,
+      "markId": "2w5le3e6ohs3wa6",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 30,
+      "firstSeen": "2026-10-5",
+      "lastSeen": "2026-10-22"
+    },
+    {
+      "id": 53,
+      "markId": "yltohzsi73c1gdl",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 19,
+      "firstSeen": "2026-10-5",
+      "lastSeen": "2026-10-6"
+    },
+    {
+      "id": 54,
+      "markId": "739hitsbsr9sph6",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 24,
+      "firstSeen": "2026-9-24",
+      "lastSeen": "2026-9-25"
+    },
+    {
+      "id": 55,
+      "markId": "j9kynu5xjn15vr0",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 21,
+      "firstSeen": "2026-9-23",
+      "lastSeen": "2026-10-19"
+    },
+    {
+      "id": 56,
+      "markId": "6xqzfigxalvptph",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 26,
+      "firstSeen": "2026-9-4",
+      "lastSeen": "2026-10-21"
+    },
+    {
+      "id": 57,
+      "markId": "wp9bx7vrjs948mf",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 28,
+      "firstSeen": "2026-10-7",
+      "lastSeen": "2026-10-10"
+    },
+    {
+      "id": 58,
+      "markId": "ix0r3ntl08ctjvp",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 14,
+      "firstSeen": "2026-9-4",
+      "lastSeen": "2026-10-19"
+    },
+    {
+      "id": 59,
+      "markId": "g8pf6bdl2augcoq",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 28,
+      "firstSeen": "2026-8-31",
+      "lastSeen": "2026-10-1"
+    },
+    {
+      "id": 60,
+      "markId": "m7n7hgh3d8lmtwy",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 8,
+      "firstSeen": "2026-9-12",
+      "lastSeen": "2026-10-14"
+    },
+    {
+      "id": 61,
+      "markId": "psp487bc4ht61og",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 18,
+      "firstSeen": "2026-9-6",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": 62,
+      "markId": "kyyiubefmn4nlin",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 19,
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-22"
+    },
+    {
+      "id": 63,
+      "markId": "0z4kewa8ncwfsk6",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 5,
+      "firstSeen": "2026-9-13",
+      "lastSeen": "2026-9-29"
+    },
+    {
+      "id": 64,
+      "markId": "b40uxg0y3uvd3td",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 16,
+      "firstSeen": "2026-9-15",
+      "lastSeen": "2026-10-20"
+    },
+    {
+      "id": 65,
+      "markId": "yosiohpani4c5ry",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 21,
+      "firstSeen": "2026-9-8",
+      "lastSeen": "2026-10-15"
+    },
+    {
+      "id": 66,
+      "markId": "h8e3njegfocob1q",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 13,
+      "firstSeen": "2026-10-9",
+      "lastSeen": "2026-10-10"
+    },
+    {
+      "id": 67,
+      "markId": "hutrdsd9eo2uxv6",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 5,
+      "firstSeen": "2026-9-8",
+      "lastSeen": "2026-9-19"
+    },
+    {
+      "id": 68,
+      "markId": "56zsxwdhcevhczx",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 9,
+      "firstSeen": "2026-9-7",
+      "lastSeen": "2026-9-19"
+    },
+    {
+      "id": 69,
+      "markId": "rlaj9dagmyoa5h2",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 14,
+      "firstSeen": "2026-9-30",
+      "lastSeen": "2026-10-26"
+    },
+    {
+      "id": 70,
+      "markId": "v9729hyhflvm9t0",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 24,
+      "firstSeen": "2026-9-13",
+      "lastSeen": "2026-10-17"
+    },
+    {
+      "id": 71,
+      "markId": "bpc7j4aw833ar7b",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 1,
+      "firstSeen": "2026-9-5",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": 72,
+      "markId": "y2ohps9z64zkeib",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 5,
+      "firstSeen": "2026-9-25",
+      "lastSeen": "2026-9-30"
+    },
+    {
+      "id": 73,
+      "markId": "ev358x1aoz2wwvc",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 20,
+      "firstSeen": "2026-9-23",
+      "lastSeen": "2026-10-14"
+    },
+    {
+      "id": 74,
+      "markId": "l3vw1kwhmxdisy1",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 20,
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-25"
+    },
+    {
+      "id": 75,
+      "markId": "caxjjkzmz28v78r",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 26,
+      "firstSeen": "2026-9-18",
+      "lastSeen": "2026-10-11"
+    },
+    {
+      "id": 76,
+      "markId": "wlatgyinaxc0oo8",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 10,
+      "firstSeen": "2026-9-6",
+      "lastSeen": "2026-10-12"
+    },
+    {
+      "id": 77,
+      "markId": "cg1kbz38kihqqjr",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 3,
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-14"
+    },
+    {
+      "id": 78,
+      "markId": "46xw1x46agnzxay",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 17,
+      "firstSeen": "2026-9-25",
+      "lastSeen": "2026-10-25"
+    },
+    {
+      "id": 79,
+      "markId": "76d33h7ag9u4irp",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 24,
+      "firstSeen": "2026-8-31",
+      "lastSeen": "2026-9-17"
+    },
+    {
+      "id": 80,
+      "markId": "h8sr4libib6joe6",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 2,
+      "firstSeen": "2026-9-13",
+      "lastSeen": "2026-10-14"
+    },
+    {
+      "id": 81,
+      "markId": "qyu8n09cidfktlx",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 21,
+      "firstSeen": "2026-9-14",
+      "lastSeen": "2026-9-25"
+    },
+    {
+      "id": 82,
+      "markId": "4yirceih8dqh2rs",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 30,
+      "firstSeen": "2026-9-14",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": 83,
+      "markId": "0eetzthyn6zahiz",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 2,
+      "firstSeen": "2026-9-19",
+      "lastSeen": "2026-10-22"
+    },
+    {
+      "id": 84,
+      "markId": "7q0f0t0jvmie6tz",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 27,
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": 85,
+      "markId": "fwpgnjwh6axm053",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 27,
+      "firstSeen": "2026-10-1",
+      "lastSeen": "2026-10-22"
+    },
+    {
+      "id": 86,
+      "markId": "3g3wge5siq8b4c7",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 22,
+      "firstSeen": "2026-8-30",
+      "lastSeen": "2026-10-10"
+    },
+    {
+      "id": 87,
+      "markId": "qarzk5u5cpb9fyx",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 14,
+      "firstSeen": "2026-9-2",
+      "lastSeen": "2026-9-15"
+    },
+    {
+      "id": 88,
+      "markId": "x0o90tgdntb689l",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 10,
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-21"
+    },
+    {
+      "id": 89,
+      "markId": "jgnnbonf5xaz39s",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 8,
+      "firstSeen": "2026-9-7",
+      "lastSeen": "2026-9-12"
+    },
+    {
+      "id": 90,
+      "markId": "2bashssksmmqrx8",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 10,
+      "firstSeen": "2026-9-16",
+      "lastSeen": "2026-10-16"
+    },
+    {
+      "id": 91,
+      "markId": "x5etvnegitlhakm",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 1,
+      "firstSeen": "2026-9-21",
+      "lastSeen": "2026-10-22"
+    },
+    {
+      "id": 92,
+      "markId": "4plafzrcp3esduo",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 29,
+      "firstSeen": "2026-10-3",
+      "lastSeen": "2026-10-9"
+    },
+    {
+      "id": 93,
+      "markId": "3vkjzzrzp053hba",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 15,
+      "firstSeen": "2026-9-17",
+      "lastSeen": "2026-9-22"
+    },
+    {
+      "id": 94,
+      "markId": "jl8g7j41vb011hj",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 27,
+      "firstSeen": "2026-9-7",
+      "lastSeen": "2026-10-22"
+    },
+    {
+      "id": 95,
+      "markId": "qvafcvymd3w8udr",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 2,
+      "firstSeen": "2026-9-25",
+      "lastSeen": "2026-10-2"
+    },
+    {
+      "id": 96,
+      "markId": "pqcvh3q5oigkwqd",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 14,
+      "firstSeen": "2026-9-30",
+      "lastSeen": "2026-10-10"
+    },
+    {
+      "id": 97,
+      "markId": "3tit7hkmp4wb60y",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 4,
+      "firstSeen": "2026-10-3",
+      "lastSeen": "2026-10-3"
+    },
+    {
+      "id": 98,
+      "markId": "rti95dle0067ksl",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 4,
+      "firstSeen": "2026-9-23",
+      "lastSeen": "2026-9-24"
+    },
+    {
+      "id": 99,
+      "markId": "6k9pwgjoexg7zl5",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 25,
+      "firstSeen": "2026-9-23",
+      "lastSeen": "2026-9-25"
+    },
+    {
+      "id": 100,
+      "markId": "swdn1qpki3dl8vk",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 2,
+      "firstSeen": "2026-10-7",
+      "lastSeen": "2026-10-20"
+    },
+    {
+      "id": 101,
+      "markId": "c0gnopt5wk1p3x8",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 8,
+      "firstSeen": "2026-9-22",
+      "lastSeen": "2026-10-17"
+    },
+    {
+      "id": 102,
+      "markId": "9ucnn6lu13p1805",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 10,
+      "firstSeen": "2026-8-31",
+      "lastSeen": "2026-9-4"
+    },
+    {
+      "id": 103,
+      "markId": "xaqspx7sji2p4vy",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 13,
+      "firstSeen": "2026-9-5",
+      "lastSeen": "2026-10-20"
+    },
+    {
+      "id": 104,
+      "markId": "yxkwdhwvdc9rov8",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 1,
+      "firstSeen": "2026-10-6",
+      "lastSeen": "2026-10-16"
+    },
+    {
+      "id": 105,
+      "markId": "it4s8n78n13vciz",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 26,
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-20"
+    },
+    {
+      "id": 106,
+      "markId": "dssiud2cku7sjfb",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 14,
+      "firstSeen": "2026-10-8",
+      "lastSeen": "2026-10-22"
+    },
+    {
+      "id": 107,
+      "markId": "hx7ez1f1u6nypp1",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 8,
+      "firstSeen": "2026-9-30",
+      "lastSeen": "2026-10-10"
+    },
+    {
+      "id": 108,
+      "markId": "zzzl2y5sbkzgc5l",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 3,
+      "firstSeen": "2026-10-2",
+      "lastSeen": "2026-10-4"
+    },
+    {
+      "id": 109,
+      "markId": "dlow6ga4g7w4pj0",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 26,
+      "firstSeen": "2026-9-20",
+      "lastSeen": "2026-9-20"
+    },
+    {
+      "id": 110,
+      "markId": "8s4b1lk1bo86b2o",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 3,
+      "firstSeen": "2026-10-8",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": 111,
+      "markId": "0bqqnhkhde2c57m",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 8,
+      "firstSeen": "2026-9-16",
+      "lastSeen": "2026-10-13"
+    },
+    {
+      "id": 112,
+      "markId": "p7cfw0rxsyv4b3s",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 20,
+      "firstSeen": "2026-10-9",
+      "lastSeen": "2026-10-24"
+    },
+    {
+      "id": 113,
+      "markId": "u1aq7qvmnyze0q7",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 10,
+      "firstSeen": "2026-9-5",
+      "lastSeen": "2026-10-9"
+    },
+    {
+      "id": 114,
+      "markId": "t9e9cmdqiw5xajd",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 29,
+      "firstSeen": "2026-9-5",
+      "lastSeen": "2026-10-17"
+    },
+    {
+      "id": 115,
+      "markId": "nijfz0vy6d3laod",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 14,
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-26"
+    },
+    {
+      "id": 116,
+      "markId": "wr955k38bk4ghmc",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 30,
+      "firstSeen": "2026-9-25",
+      "lastSeen": "2026-10-21"
+    },
+    {
+      "id": 117,
+      "markId": "chsskoa98znsels",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 22,
+      "firstSeen": "2026-9-18",
+      "lastSeen": "2026-9-30"
+    },
+    {
+      "id": 118,
+      "markId": "hjlbiq6mqe9q0dt",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 20,
+      "firstSeen": "2026-9-12",
+      "lastSeen": "2026-10-10"
+    },
+    {
+      "id": 119,
+      "markId": "bzuox27kjm84enh",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 26,
+      "firstSeen": "2026-9-7",
+      "lastSeen": "2026-9-16"
+    },
+    {
+      "id": 120,
+      "markId": "rot7zcsn1tu87ut",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 14,
+      "firstSeen": "2026-9-26",
+      "lastSeen": "2026-10-26"
+    },
+    {
+      "id": 121,
+      "markId": "1u03lvp8od65hs7",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 28,
+      "firstSeen": "2026-10-3",
+      "lastSeen": "2026-10-25"
+    },
+    {
+      "id": 122,
+      "markId": "a0ovo6ca7tl6b9j",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 19,
+      "firstSeen": "2026-9-16",
+      "lastSeen": "2026-9-22"
+    },
+    {
+      "id": 123,
+      "markId": "0b283xs40csseub",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 17,
+      "firstSeen": "2026-9-29",
+      "lastSeen": "2026-10-8"
+    },
+    {
+      "id": 124,
+      "markId": "ghtemoju802vodv",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 29,
+      "firstSeen": "2026-9-15",
+      "lastSeen": "2026-10-17"
+    },
+    {
+      "id": 125,
+      "markId": "e1r4bnlpd0z4xxa",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 9,
+      "firstSeen": "2026-9-16",
+      "lastSeen": "2026-9-25"
+    },
+    {
+      "id": 126,
+      "markId": "myq8aiuuuu3j9ke",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 22,
+      "firstSeen": "2026-9-4",
+      "lastSeen": "2026-9-21"
+    },
+    {
+      "id": 127,
+      "markId": "zpizspjo9wguerm",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 19,
+      "firstSeen": "2026-9-22",
+      "lastSeen": "2026-9-29"
+    },
+    {
+      "id": 128,
+      "markId": "24bt7h8eszmsxks",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 22,
+      "firstSeen": "2026-10-8",
+      "lastSeen": "2026-10-17"
+    },
+    {
+      "id": 129,
+      "markId": "vfmx2hbrolbt95s",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 5,
+      "firstSeen": "2026-9-5",
+      "lastSeen": "2026-9-6"
+    },
+    {
+      "id": 130,
+      "markId": "6k5va9dxb96zn7e",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 26,
+      "firstSeen": "2026-9-10",
+      "lastSeen": "2026-9-10"
+    },
+    {
+      "id": 131,
+      "markId": "cfdi11l2gq1z2ok",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 15,
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10"
+    },
+    {
+      "id": 132,
+      "markId": "kvjl5r7j0xln2dp",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 2,
+      "firstSeen": "2026-9-22",
+      "lastSeen": "2026-9-29"
+    },
+    {
+      "id": 133,
+      "markId": "jbr9yjypibsll1u",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 22,
+      "firstSeen": "2026-10-6",
+      "lastSeen": "2026-10-19"
+    },
+    {
+      "id": 134,
+      "markId": "wzfqyf6ry61pbkb",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 5,
+      "firstSeen": "2026-9-1",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": 135,
+      "markId": "8fibrr13ma2m03y",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 6,
+      "firstSeen": "2026-9-6",
+      "lastSeen": "2026-10-8"
+    },
+    {
+      "id": 136,
+      "markId": "am567oxy08l4sq2",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 2,
+      "firstSeen": "2026-9-14",
+      "lastSeen": "2026-9-19"
+    },
+    {
+      "id": 137,
+      "markId": "shj1at5a8ucexhj",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 14,
+      "firstSeen": "2026-10-6",
+      "lastSeen": "2026-10-24"
+    },
+    {
+      "id": 138,
+      "markId": "6bgxnqqyy7w6liu",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 22,
+      "firstSeen": "2026-9-26",
+      "lastSeen": "2026-9-28"
+    },
+    {
+      "id": 139,
+      "markId": "4gfwh66voxcuewh",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 16,
+      "firstSeen": "2026-9-8",
+      "lastSeen": "2026-9-17"
+    },
+    {
+      "id": 140,
+      "markId": "x58vbee7f7vbvi7",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 14,
+      "firstSeen": "2026-10-3",
+      "lastSeen": "2026-10-9"
+    },
+    {
+      "id": 141,
+      "markId": "yuxlcr647xm2y4s",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 13,
+      "firstSeen": "2026-9-14",
+      "lastSeen": "2026-10-20"
+    },
+    {
+      "id": 142,
+      "markId": "xifw42mzaw5393b",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 8,
+      "firstSeen": "2026-9-30",
+      "lastSeen": "2026-10-26"
+    },
+    {
+      "id": 143,
+      "markId": "vixg6b0acdz2nid",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 16,
+      "firstSeen": "2026-9-19",
+      "lastSeen": "2026-9-25"
+    },
+    {
+      "id": 144,
+      "markId": "gaomlw7kt9bjukj",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 5,
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-14"
+    },
+    {
+      "id": 145,
+      "markId": "ot4fyk4qlzpx54f",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 2,
+      "firstSeen": "2026-8-30",
+      "lastSeen": "2026-10-6"
+    },
+    {
+      "id": 146,
+      "markId": "ofbize4ky9m915p",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 9,
+      "firstSeen": "2026-9-17",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": 147,
+      "markId": "e4ffz0ump7o2e7i",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 26,
+      "firstSeen": "2026-9-27",
+      "lastSeen": "2026-10-28"
+    },
+    {
+      "id": 148,
+      "markId": "yxjktp7bqjt9vkj",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 26,
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-25"
+    },
+    {
+      "id": 149,
+      "markId": "lca7x4jxdm08k11",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 11,
+      "firstSeen": "2026-9-17",
+      "lastSeen": "2026-9-21"
+    },
+    {
+      "id": 150,
+      "markId": "jmgmy63h1wcq7mk",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 22,
+      "firstSeen": "2026-9-15",
+      "lastSeen": "2026-10-6"
+    },
+    {
+      "id": 151,
+      "markId": "slm9q9cyf73aivf",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 3,
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-28"
+    },
+    {
+      "id": 152,
+      "markId": "39ree1rywrlvpxj",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 2,
+      "firstSeen": "2026-9-5",
+      "lastSeen": "2026-10-26"
+    },
+    {
+      "id": 153,
+      "markId": "4tdmmtsc6oaqqbs",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 17,
+      "firstSeen": "2026-9-25",
+      "lastSeen": "2026-9-25"
+    },
+    {
+      "id": 154,
+      "markId": "j8lsb99bl4j0tii",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 6,
+      "firstSeen": "2026-9-30",
+      "lastSeen": "2026-10-10"
+    },
+    {
+      "id": 155,
+      "markId": "8okthc0bl24cdye",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 6,
+      "firstSeen": "2026-9-9",
+      "lastSeen": "2026-9-13"
+    },
+    {
+      "id": 156,
+      "markId": "mp08u8ignza8sij",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 2,
+      "firstSeen": "2026-9-24",
+      "lastSeen": "2026-10-11"
+    },
+    {
+      "id": 157,
+      "markId": "l9f9zxsdtg2eudg",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 2,
+      "firstSeen": "2026-9-27",
+      "lastSeen": "2026-9-27"
+    },
+    {
+      "id": 158,
+      "markId": "xcm4hd8p1trbm4m",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 29,
+      "firstSeen": "2026-9-1",
+      "lastSeen": "2026-10-16"
+    },
+    {
+      "id": 159,
+      "markId": "nw0fyq7r66jmvde",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 25,
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-22"
+    },
+    {
+      "id": 160,
+      "markId": "ti113ill9rgn7rr",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 15,
+      "firstSeen": "2026-9-25",
+      "lastSeen": "2026-10-10"
+    },
+    {
+      "id": 161,
+      "markId": "1lu8n6hbyv0uzaj",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 6,
+      "firstSeen": "2026-9-26",
+      "lastSeen": "2026-10-15"
+    },
+    {
+      "id": 162,
+      "markId": "u9dhna55kist1ru",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 27,
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-18"
+    },
+    {
+      "id": 163,
+      "markId": "lltzckt5wlgapgm",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 1,
+      "firstSeen": "2026-9-18",
+      "lastSeen": "2026-10-2"
+    },
+    {
+      "id": 164,
+      "markId": "g1pm3cve3ciuh7y",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 10,
+      "firstSeen": "2026-10-5",
+      "lastSeen": "2026-10-12"
+    },
+    {
+      "id": 165,
+      "markId": "wjqf73v1s5tmrf9",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 28,
+      "firstSeen": "2026-9-2",
+      "lastSeen": "2026-9-24"
+    },
+    {
+      "id": 166,
+      "markId": "5765nuqkm8hrq76",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 10,
+      "firstSeen": "2026-9-30",
+      "lastSeen": "2026-10-23"
+    },
+    {
+      "id": 167,
+      "markId": "52o74kq3rpzd7ft",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 28,
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-22"
+    },
+    {
+      "id": 168,
+      "markId": "cdgd3jk818yw6sj",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 12,
+      "firstSeen": "2026-9-23",
+      "lastSeen": "2026-9-25"
+    },
+    {
+      "id": 169,
+      "markId": "zzuoxht916oxoda",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 8,
+      "firstSeen": "2026-10-8",
+      "lastSeen": "2026-10-12"
+    },
+    {
+      "id": 170,
+      "markId": "22qt6xi2tsfw7hk",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 6,
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-22"
+    },
+    {
+      "id": 171,
+      "markId": "ovtzio1zrnx85ho",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 10,
+      "firstSeen": "2026-8-31",
+      "lastSeen": "2026-10-14"
+    },
+    {
+      "id": 172,
+      "markId": "1quk997383lq5nh",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 3,
+      "firstSeen": "2026-10-8",
+      "lastSeen": "2026-10-23"
+    },
+    {
+      "id": 173,
+      "markId": "irgm1r0s7xodhjm",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 24,
+      "firstSeen": "2026-9-8",
+      "lastSeen": "2026-10-5"
+    },
+    {
+      "id": 174,
+      "markId": "m9e47mj00kje5c8",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 9,
+      "firstSeen": "2026-9-5",
+      "lastSeen": "2026-10-12"
+    },
+    {
+      "id": 175,
+      "markId": "vbx60y29bcs1f8d",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 15,
+      "firstSeen": "2026-9-25",
+      "lastSeen": "2026-10-20"
+    },
+    {
+      "id": 176,
+      "markId": "b63q7qalapkqiac",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 18,
+      "firstSeen": "2026-9-18",
+      "lastSeen": "2026-10-22"
+    },
+    {
+      "id": 177,
+      "markId": "ve5vkkibgwx1er5",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 10,
+      "firstSeen": "2026-10-9",
+      "lastSeen": "2026-10-16"
+    },
+    {
+      "id": 178,
+      "markId": "tb7h7jd116wa37c",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 29,
+      "firstSeen": "2026-9-1",
+      "lastSeen": "2026-9-11"
+    },
+    {
+      "id": 179,
+      "markId": "719vfaidcieh7ze",
+      "os": "Win32",
+      "browser": "Edge",
+      "screenWidth": 1536,
+      "visits": 25,
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-15"
+    },
+    {
+      "id": 180,
+      "markId": "dhz8cs4jbkfpyke",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 25,
+      "firstSeen": "2026-10-9",
+      "lastSeen": "2026-10-9"
+    },
+    {
+      "id": 181,
+      "markId": "rbhk5wiama7g0g8",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 20,
+      "firstSeen": "2026-9-9",
+      "lastSeen": "2026-10-15"
+    },
+    {
+      "id": 182,
+      "markId": "827b8f9s8imnri2",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 5,
+      "firstSeen": "2026-9-26",
+      "lastSeen": "2026-10-3"
+    },
+    {
+      "id": 183,
+      "markId": "mhk58pof3ztc3pa",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 16,
+      "firstSeen": "2026-9-13",
+      "lastSeen": "2026-10-11"
+    },
+    {
+      "id": 184,
+      "markId": "0fhjvb6sv5ea1ye",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 7,
+      "firstSeen": "2026-9-21",
+      "lastSeen": "2026-10-19"
+    },
+    {
+      "id": 185,
+      "markId": "na7jmhs0jxg7aiu",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 5,
+      "firstSeen": "2026-9-23",
+      "lastSeen": "2026-10-18"
+    },
+    {
+      "id": 186,
+      "markId": "eyl57qi6aelve4d",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 5,
+      "firstSeen": "2026-9-18",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": 187,
+      "markId": "5ljm0iyn7xqj9u7",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 26,
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-14"
+    },
+    {
+      "id": 188,
+      "markId": "tlp1f8344he65yo",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 2,
+      "firstSeen": "2026-9-17",
+      "lastSeen": "2026-10-16"
+    },
+    {
+      "id": 189,
+      "markId": "9oqxx7y6y2a6b2z",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 14,
+      "firstSeen": "2026-9-5",
+      "lastSeen": "2026-10-4"
+    },
+    {
+      "id": 190,
+      "markId": "yculz3eqvqb84w1",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 9,
+      "firstSeen": "2026-9-13",
+      "lastSeen": "2026-9-15"
+    },
+    {
+      "id": 191,
+      "markId": "e2ym9wfczrwm3vp",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 5,
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-18"
+    },
+    {
+      "id": 192,
+      "markId": "v7r82sgmrt6sbqu",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 9,
+      "firstSeen": "2026-9-4",
+      "lastSeen": "2026-10-26"
+    },
+    {
+      "id": 193,
+      "markId": "9skhzeq0nyib6ra",
+      "os": "MacIntel",
+      "browser": "Safari",
+      "screenWidth": 1512,
+      "visits": 20,
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-28"
+    },
+    {
+      "id": 194,
+      "markId": "tcf7ylm9dfgt2es",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 10,
+      "firstSeen": "2026-9-22",
+      "lastSeen": "2026-10-20"
+    },
+    {
+      "id": 195,
+      "markId": "43m8fhniz5ckgfd",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 4,
+      "firstSeen": "2026-9-13",
+      "lastSeen": "2026-10-2"
+    },
+    {
+      "id": 196,
+      "markId": "ym3f6luaaui8ndq",
+      "os": "MacIntel",
+      "browser": "Chrome",
+      "screenWidth": 1728,
+      "visits": 11,
+      "firstSeen": "2026-9-10",
+      "lastSeen": "2026-9-22"
+    },
+    {
+      "id": 197,
+      "markId": "tr6n23dhwsqmxus",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 12,
+      "firstSeen": "2026-9-10",
+      "lastSeen": "2026-10-23"
+    },
+    {
+      "id": 198,
+      "markId": "ov392ppim7j7koq",
+      "os": "Win32",
+      "browser": "Chrome",
+      "screenWidth": 1920,
+      "visits": 23,
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-19"
+    },
+    {
+      "id": 199,
+      "markId": "b7hb6sj2b6azc01",
+      "os": "Linux armv8l",
+      "browser": "Chrome",
+      "screenWidth": 412,
+      "visits": 10,
+      "firstSeen": "2026-9-30",
+      "lastSeen": "2026-10-18"
+    },
+    {
+      "id": 200,
+      "markId": "xmj85khfr3gcd3d",
+      "os": "iPhone",
+      "browser": "Safari",
+      "screenWidth": 390,
+      "visits": 26,
+      "firstSeen": "2026-9-28",
+      "lastSeen": "2026-10-27"
+    }
+  ]
+}

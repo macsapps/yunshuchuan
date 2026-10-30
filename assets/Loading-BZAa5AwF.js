@@ -1,0 +1,1 @@
+import{d as o,o as a,c as n,g as t,_ as s}from"./index-DpAUu3nu.js";const c={key:0,class:"Loading"},_=o({__name:"Loading",props:{loading:Boolean},setup(e){return(d,r)=>e.loading?(a(),n("div",c,"加载中...")):t("",!0)}}),p=s(_,[["__scopeId","data-v-3251e0a7"]]);export{p as L};
