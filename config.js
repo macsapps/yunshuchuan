@@ -1,14 +1,9 @@
 window.config = {
-  apiUrl:'http://www.server.com/index.php',
-  // apiUrl:'https://yunshuchuan.7749.org/server/public/index.php/',
-  apiUrl:'https://yunshuchuan.66ghz.com/server/public/index.php',
 
-  // apiUrl: "http://30601052nvde.vicp.fun:31359/index.php",
 
   webUrl: "yunshuchuan.66ghz.com",
-  // imgReg: "https://img.3bt0.com/",
   imgReg: "https://img.bbegge.com/",
-  isAdmin: true,
+  isAdmin: false,
   cateList: [
     "全部",
     "喜剧",
